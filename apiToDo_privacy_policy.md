@@ -1,4 +1,4 @@
-# Datenschutzerklärung: Informationspflichten nach DSGVO und TKG
+# Datenschutzerklärung: Informationspflichten nach DSGVO und TKG für die App ApiToDo
 
 Nach der DSGVO sind der betroffenen Person durch den Verantwortlichen gewisse Informationen über die Datenverarbeitungen zur Verfügung zu stellen. Die DSGVO bezieht sich ebenso wie das TKG nur auf personenbezogene Daten. 
 
@@ -13,8 +13,8 @@ Neben den Informationspflichten nach der DSGVO bestehen noch jene nach dem TKG f
 
 ## Name und Kontaktdaten des Verantwortlichen
 
+### EagleTyrol
 ### Bernhard Fischler
-### EAGLETYROL
 * 6095 Anger 9
 * Österreich
 * E-Mail: eagle.tirol@gmail.com
