@@ -140,5 +140,5 @@ Wenn eine Zulassung von dieser Möglichkeit Gebrauch macht und abweichende Regel
 >
 > Relevante Bestimmungen im TKG 2021: § 165 Abs 3
 >
-> Stand: 20.08.2024
+> Stand: 09.05.2025
 
