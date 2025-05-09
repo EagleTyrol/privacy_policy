@@ -14,7 +14,7 @@ Neben den Informationspflichten nach der DSGVO bestehen noch jene nach dem TKG f
 ## Name und Kontaktdaten des Verantwortlichen
 
 ### EagleTyrol
-### Bernhard Fischler
+#### Bernhard Fischler
 * 6095 Anger 9
 * Österreich
 * E-Mail: eagle.tirol@gmail.com
