@@ -111,7 +111,7 @@ Beschreibung: Ein Dienst zur Verwaltung von In-App-Abonnements und -Käufen.
 * Zahlungsabwicklung: Verarbeitung von In-App-Käufen und Abonnements.
 * Analyse: Bereitstellung von Einblicken in Abonnementdaten und Umsatz.
 * Personenbezogene Daten: Kaufhistorie, Abonnementdaten, Zahlungsinformationen, Geräte-Ids
-https://www.revenuecat.com/privacy/
+* https://www.revenuecat.com/privacy/
 
 Auf die von Google erfassten Daten und deren Verwendung wird auf  https://policies.google.com/privacy?hl=de verwiesen.
 
