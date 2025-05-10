@@ -93,8 +93,8 @@ Wir nutzen Dienste von verschiedenen Drittanbietern , durch die auch personenbez
 * Firebase Authentication: Bietet eine sichere Anmeldung und Benutzerverwaltung.
 * Firebase Realtime Database & Cloud Firestore: Cloud-basierte Datenbanken zur Speicherung und Synchronisierung von App-Daten in Echtzeit.
 * Firebase Storage: Cloud-Speicher zum Speichern und Bereitstellen von Nutzer-generierten Inhalten wie Bildern und Videos.
-      *Personenbezogene Daten: Geräte-IDs, App-Nutzungsdaten, Absturzberichte, Standortdaten (falls aktiviert), Benutzerauthentifizierungsdaten, Nutzer-generierte Inhalte.
-https://policies.google.com/privacy
+* Personenbezogene Daten: Geräte-IDs, App-Nutzungsdaten, Absturzberichte, Standortdaten (falls aktiviert), Benutzerauthentifizierungsdaten, Nutzer-generierte Inhalte.
+* https://policies.google.com/privacy
 
 #### Google Cloud:
 Beschreibung: Eine Suite von Cloud-Computing-Diensten von Google, die Infrastruktur, Speicher, Datenbanken und andere Ressourcen bereitstellt.
@@ -103,7 +103,7 @@ Beschreibung: Eine Suite von Cloud-Computing-Diensten von Google, die Infrastruk
 * Google Cloud SQL: Cloud-basierte relationale Datenbanken.
 * Google Kubernetes Engine: Plattform zur Verwaltung von Container-basierten Anwendungen.
 * Personenbezogene Daten: Hängt von den spezifischen verwendeten Diensten und der Art Ihrer App ab, kann aber App-Daten, Nutzungsdaten, Log-Dateien und andere Informationen umfassen, die in Google Cloud gespeichert oder verarbeitet werden.
-https://policies.google.com/privacy
+* https://policies.google.com/privacy
 
 #### RevenueCat:
 Beschreibung: Ein Dienst zur Verwaltung von In-App-Abonnements und -Käufen.
@@ -111,7 +111,7 @@ Beschreibung: Ein Dienst zur Verwaltung von In-App-Abonnements und -Käufen.
 * Zahlungsabwicklung: Verarbeitung von In-App-Käufen und Abonnements.
 * Analyse: Bereitstellung von Einblicken in Abonnementdaten und Umsatz.
 * Personenbezogene Daten: Kaufhistorie, Abonnementdaten, Zahlungsinformationen, Geräte-Ids
-https://www.revenuecat.com/privacy/
+* https://www.revenuecat.com/privacy/
 
 Auf die von Google erfassten Daten und deren Verwendung wird auf  https://policies.google.com/privacy?hl=de verwiesen.
 
