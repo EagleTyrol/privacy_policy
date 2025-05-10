@@ -93,8 +93,8 @@ Wir nutzen Dienste von verschiedenen Drittanbietern , durch die auch personenbez
 * Firebase Authentication: Bietet eine sichere Anmeldung und Benutzerverwaltung.
 * Firebase Realtime Database & Cloud Firestore: Cloud-basierte Datenbanken zur Speicherung und Synchronisierung von App-Daten in Echtzeit.
 * Firebase Storage: Cloud-Speicher zum Speichern und Bereitstellen von Nutzer-generierten Inhalten wie Bildern und Videos.
-      *Personenbezogene Daten: Geräte-IDs, App-Nutzungsdaten, Absturzberichte, Standortdaten (falls aktiviert), Benutzerauthentifizierungsdaten, Nutzer-generierte Inhalte.
-https://policies.google.com/privacy
+      * Personenbezogene Daten: Geräte-IDs, App-Nutzungsdaten, Absturzberichte, Standortdaten (falls aktiviert), Benutzerauthentifizierungsdaten, Nutzer-generierte Inhalte.
+* https://policies.google.com/privacy
 
 #### Google Cloud:
 Beschreibung: Eine Suite von Cloud-Computing-Diensten von Google, die Infrastruktur, Speicher, Datenbanken und andere Ressourcen bereitstellt.
