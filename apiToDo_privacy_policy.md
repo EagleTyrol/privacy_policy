@@ -22,13 +22,13 @@ Wir verarbeiten personenbezogene Daten zur Erfüllung eines Vertrages bzw. zur D
 ### 4. Drittanbieter und Cloud-Dienste
 Wir nutzen Dienste von Drittanbietern, um die Funktionalität und Sicherheit der App zu gewährleisten:
 
-*Google Firebase: Wir nutzen Firebase zur Benutzerauthentifizierung, Echtzeit-Synchronisation der Daten, Absturzberichten (Crashlytics) und Push-Benachrichtigungen.
+* Google Firebase: Wir nutzen Firebase zur Benutzerauthentifizierung, Echtzeit-Synchronisation der Daten, Absturzberichten (Crashlytics) und Push-Benachrichtigungen.
 
-*Google Cloud: Zur sicheren Speicherung von App-Daten und Medien.
+* Google Cloud: Zur sicheren Speicherung von App-Daten und Medien.
 
-*RevenueCat: Zur Verwaltung von In-App-Abonnements und Käufen. Die eigentliche Zahlungsabwicklung erfolgt über den Google Play Store bzw. Apple App Store; wir speichern keine Kreditkartendaten.
+* RevenueCat: Zur Verwaltung von In-App-Abonnements und Käufen. Die eigentliche Zahlungsabwicklung erfolgt über den Google Play Store bzw. Apple App Store; wir speichern keine Kreditkartendaten.
 
-*Datenübermittlung in die USA: Die Datenverarbeitung erfolgt teilweise auf Servern in den USA. Die Europäische Kommission hat bestätigt, dass unter dem EU-U.S. Data Privacy Framework ein angemessenes Datenschutzniveau besteht.
+* Datenübermittlung in die USA: Die Datenverarbeitung erfolgt teilweise auf Servern in den USA. Die Europäische Kommission hat bestätigt, dass unter dem EU-U.S. Data Privacy Framework ein angemessenes Datenschutzniveau besteht.
 
 5. Ihre Rechte als betroffene Person
 Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.
