@@ -22,27 +22,27 @@ Wir verarbeiten personenbezogene Daten zur Erfüllung eines Vertrages bzw. zur D
 ### 4. Drittanbieter und Cloud-Dienste
 Wir nutzen Dienste von Drittanbietern, um die Funktionalität und Sicherheit der App zu gewährleisten:
 
-* Google Firebase: Wir nutzen Firebase zur Benutzerauthentifizierung, Echtzeit-Synchronisation der Daten, Absturzberichten (Crashlytics) und Push-Benachrichtigungen.
+* **Google Firebase:** Wir nutzen Firebase zur Benutzerauthentifizierung, Echtzeit-Synchronisation der Daten, Absturzberichten (Crashlytics) und Push-Benachrichtigungen.
 
-* Google Cloud: Zur sicheren Speicherung von App-Daten und Medien.
+* **Google Cloud:** Zur sicheren Speicherung von App-Daten und Medien.
 
-* RevenueCat: Zur Verwaltung von In-App-Abonnements und Käufen. Die eigentliche Zahlungsabwicklung erfolgt über den Google Play Store bzw. Apple App Store; wir speichern keine Kreditkartendaten.
+* **RevenueCat:** Zur Verwaltung von In-App-Abonnements und Käufen. Die eigentliche Zahlungsabwicklung erfolgt über den Google Play Store bzw. Apple App Store; wir speichern keine Kreditkartendaten.
 
-* Datenübermittlung in die USA: Die Datenverarbeitung erfolgt teilweise auf Servern in den USA. Die Europäische Kommission hat bestätigt, dass unter dem EU-U.S. Data Privacy Framework ein angemessenes Datenschutzniveau besteht.
+* **Datenübermittlung in die USA:** Die Datenverarbeitung erfolgt teilweise auf Servern in den USA. Die Europäische Kommission hat bestätigt, dass unter dem EU-U.S. Data Privacy Framework ein angemessenes Datenschutzniveau besteht.
 
-5. Ihre Rechte als betroffene Person
+### 5. Ihre Rechte als betroffene Person
 Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.
 
-Besonderheit: Selbstständige Datenlöschung (Firebase) In der App ApiToDo haben Sie jederzeit die Möglichkeit, Ihr Konto und die damit verknüpften Daten bei Firebase selbstständig zu löschen. Über die Funktion „Datenbank löschen“ bzw. „Konto löschen“ in den Einstellungen werden Ihre in der Cloud gespeicherten personenbezogenen Daten (Authentication & Cloud-Datenbanken) unverzüglich und unwiderruflich entfernt.
+> Besonderheit: Selbstständige Datenlöschung (Firebase) In der App ApiToDo haben Sie jederzeit die Möglichkeit, Ihr Konto und die damit verknüpften Daten bei Firebase selbstständig zu löschen. Über die Funktion „Datenbank löschen“ bzw. „Konto löschen“ in den Einstellungen werden Ihre in der > Cloud gespeicherten personenbezogenen Daten (Authentication & Cloud-Datenbanken) unverzüglich und unwiderruflich entfernt.
 
-6. Recht auf Beschwerde
+### 6. Recht auf Beschwerde
 Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, haben Sie das Recht auf Beschwerde bei der Aufsichtsbehörde. In Österreich ist dies die:
 
 Österreichische Datenschutzbehörde Barichgasse 40-42, 1030 Wien
 
 Web: www.dsb.gv.at
 
-7. Speicherdauer
+### 7. Speicherdauer
 Personenbezogene Daten werden nur so lange gespeichert, wie es für die Zwecke, für die sie verarbeitet werden, erforderlich ist (z. B. für die Dauer der Nutzung der App oder gesetzliche Aufbewahrungspflichten). Lokale Daten werden mit der Deinstallation der App von Ihrem Gerät entfernt, sofern Sie keine externe Sicherung erstellt haben.
 
 Stand: 15.01.2026 (Aktualisiert auf Basis des aktuellen Entwicklungsstands)
