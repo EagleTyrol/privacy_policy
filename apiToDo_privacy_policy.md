@@ -13,22 +13,22 @@ Der Schutz Ihrer Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Dat
 > 
 > E-Mail: eagle.tirol@gmail.com
 
-2. Art der gespeicherten Daten & Lokale Speicherung
+### 2. Art der gespeicherten Daten & Lokale Speicherung
 Lokale Verschlüsselung (SQLCipher): Ein wesentlicher Teil Ihrer imkerlichen Daten (z. B. Stockkarten, Behandlungsdaten, Notizen) wird primär lokal in einer verschlüsselten Datenbank auf Ihrem Endgerät gespeichert. Diese Daten verlassen Ihr Gerät nur, wenn Sie explizit Funktionen wie die Cloud-Sicherung (Firebase) oder den PDF-Export nutzen.
 
-3. Verarbeitungszwecke und Rechtsgrundlagen
+### 3. Verarbeitungszwecke und Rechtsgrundlagen
 Wir verarbeiten personenbezogene Daten zur Erfüllung eines Vertrages bzw. zur Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO), um Ihnen die Funktionen der App (Bestandsführung, Synchronisation, Protokollierung) zur Verfügung zu stellen. Soweit technische Log-Daten oder Analysen erfasst werden, geschieht dies auf Basis unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an der Stabilität und Verbesserung der App.
 
-4. Drittanbieter und Cloud-Dienste
+### 4. Drittanbieter und Cloud-Dienste
 Wir nutzen Dienste von Drittanbietern, um die Funktionalität und Sicherheit der App zu gewährleisten:
 
-Google Firebase: Wir nutzen Firebase zur Benutzerauthentifizierung, Echtzeit-Synchronisation der Daten, Absturzberichten (Crashlytics) und Push-Benachrichtigungen.
+. Google Firebase: Wir nutzen Firebase zur Benutzerauthentifizierung, Echtzeit-Synchronisation der Daten, Absturzberichten (Crashlytics) und Push-Benachrichtigungen.
 
-Google Cloud: Zur sicheren Speicherung von App-Daten und Medien.
+. Google Cloud: Zur sicheren Speicherung von App-Daten und Medien.
 
-RevenueCat: Zur Verwaltung von In-App-Abonnements und Käufen. Die eigentliche Zahlungsabwicklung erfolgt über den Google Play Store bzw. Apple App Store; wir speichern keine Kreditkartendaten.
+. RevenueCat: Zur Verwaltung von In-App-Abonnements und Käufen. Die eigentliche Zahlungsabwicklung erfolgt über den Google Play Store bzw. Apple App Store; wir speichern keine Kreditkartendaten.
 
-Datenübermittlung in die USA: Die Datenverarbeitung erfolgt teilweise auf Servern in den USA. Die Europäische Kommission hat bestätigt, dass unter dem EU-U.S. Data Privacy Framework ein angemessenes Datenschutzniveau besteht.
+. Datenübermittlung in die USA: Die Datenverarbeitung erfolgt teilweise auf Servern in den USA. Die Europäische Kommission hat bestätigt, dass unter dem EU-U.S. Data Privacy Framework ein angemessenes Datenschutzniveau besteht.
 
 5. Ihre Rechte als betroffene Person
 Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.
