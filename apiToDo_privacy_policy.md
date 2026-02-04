@@ -31,7 +31,10 @@ Wir nutzen Dienste von Drittanbietern, um die Funktionalität, Sicherheit und Ab
     * **Basisversion:** Kostenlose Nutzung bis zu 5 Beuten.
     * **Pro-Version:** Die Erweiterung auf bis zu 35 Beuten erfolgt über einen **Einmalkauf**.
     * **Jahres-Abo:** Die Freischaltung der Jahreslizenz (z. B. für erweiterte Cloud-Features oder dauerhaften Service) erfolgt über ein **Abonnement**.
-* **Zahlungsabwicklung:** Bei Abschluss eines Kaufs oder Abos verarbeiten wir über RevenueCat lediglich eine anonymisierte Transaktions-ID und den Status, um die entsprechenden Inhalte für Ihr maximales Erlebnis freizuschalten. Es werden keine vollständigen Kreditkartendaten an uns übermittelt.
+* **Zahlungsabwicklung:** Bei Abschluss eines Kaufs oder Abos verarbeiten wir über RevenueCat lediglich eine anonymisierte Transaktions-ID und den Status.
+
+##Datenübermittlung in Drittstaaten:##
+Einige der von uns genutzten Dienste (insbesondere Google Firebase und Google Cloud) übertragen Daten an Server in den USA. Google LLC ist nach dem EU-U.S. Data Privacy Framework zertifiziert. Damit ist ein angemessenes Datenschutzniveau gemäß Art. 45 DSGVO gewährleistet. Die Datenübertragung erfolgt verschlüsselt. 
 
 **Rechtsgrundlage:** Die Verarbeitung erfolgt zur Vertragserfüllung (**Art. 6 Abs. 1 lit. b DSGVO**).
 ---
