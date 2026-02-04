@@ -60,4 +60,4 @@ Haben Sie den Verdacht auf Verstöße gegen das Datenschutzrecht, können Sie si
 Web: [www.dsb.gv.at](https://www.dsb.gv.at)
 
 ---
-**ApiToDo v1.0.0** *Stand der Erklärung: 15.01.2026 (Aktualisiert auf Basis des aktuellen Entwicklungsstands)*
+**ApiToDo v1.0.0** *Stand der Erklärung: 05.02.2026 (Aktualisiert auf Basis des aktuellen Entwicklungsstands)*
