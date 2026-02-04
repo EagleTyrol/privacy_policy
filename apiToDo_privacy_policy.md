@@ -24,15 +24,16 @@ Wir verarbeiten Daten nach den Grundsätzen der Rechtmäßigkeit, Zweckbindung, 
 
 ---
 
-### 4. Drittanbieter und Cloud-Dienste
-Wir nutzen Dienste von Drittanbietern, um die Funktionalität und Sicherheit der App zu gewährleisten:
+### 4. Drittanbieter, Cloud-Dienste, Abonnements & Einmalkäufe
+Wir nutzen Dienste von Drittanbietern, um die Funktionalität, Sicherheit und Abrechnung der App zu gewährleisten:
+* **Google Cloud & Firebase:** Wir nutzen die Google Cloud Plattform sowie Firebase zur Benutzerauthentifizierung (Auth), Echtzeit-Synchronisation der Daten (Firestore), zum Speichern von Medien und Backups sowie für Absturzberichte (Crashlytics) und Push-Benachrichtigungen. Die Daten werden verschlüsselt übertragen.
+* **RevenueCat & Google Play Billing:** Zur Verwaltung von Käufen und Abonnements nutzen wir RevenueCat.
+    * **Basisversion:** Kostenlose Nutzung bis zu 5 Beuten.
+    * **Pro-Version:** Die Erweiterung auf bis zu 35 Beuten erfolgt über einen **Einmalkauf**.
+    * **Jahres-Abo:** Die Freischaltung der Jahreslizenz (z. B. für erweiterte Cloud-Features oder dauerhaften Service) erfolgt über ein **Abonnement**.
+* **Zahlungsabwicklung:** Bei Abschluss eines Kaufs oder Abos verarbeiten wir über RevenueCat lediglich eine anonymisierte Transaktions-ID und den Status, um die entsprechenden Inhalte für Ihr maximales Erlebnis freizuschalten. Es werden keine vollständigen Kreditkartendaten an uns übermittelt.
 
-* **Google Firebase:** Wir nutzen Firebase zur Benutzerauthentifizierung (Auth), Echtzeit-Synchronisation der Daten (Firestore), Analyse der App-Nutzung (Analytics), Absturzberichten (Crashlytics) und Push-Benachrichtigungen (Cloud Messaging).
-* **Google Cloud:** Zur sicheren Speicherung von App-Daten und Medien.
-* **RevenueCat & Google Play Billing:** Zur Verwaltung von In-App-Abonnements (z. B. der Jahreslizenz) nutzen wir RevenueCat. Bei Abschluss eines Abos erhält Google Play die Zahlungsinformationen. Wir und RevenueCat verarbeiten lediglich eine anonymisierte Transaktions-ID und den Kaufstatus, um den Abo-Zugriff für Ihr maximales Erlebnis freizuschalten. Es werden keine vollständigen Kreditkartendaten an uns übermittelt. Die Verarbeitung dient der Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO).
-
-**Datenübermittlung in die USA:** Die Datenverarbeitung erfolgt teilweise auf Servern in den USA. Die Europäische Kommission hat bestätigt, dass unter dem **EU-U.S. Data Privacy Framework** ein angemessenes Datenschutzniveau besteht.
-
+**Rechtsgrundlage:** Die Verarbeitung erfolgt zur Vertragserfüllung (**Art. 6 Abs. 1 lit. b DSGVO**).
 ---
 
 ### 5. Ihre Rechte als betroffene Person
