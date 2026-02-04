@@ -36,7 +36,7 @@ Wir nutzen Dienste von Drittanbietern, um die Funktionalität, Sicherheit und Ab
 ### Datenübermittlung in Drittstaaten:
 Einige der von uns genutzten Dienste (insbesondere Google Firebase und Google Cloud) übertragen Daten an Server in den USA. Google LLC ist nach dem EU-U.S. Data Privacy Framework zertifiziert. Damit ist ein angemessenes Datenschutzniveau gemäß Art. 45 DSGVO gewährleistet. Die Datenübertragung erfolgt verschlüsselt. 
 
-**Rechtsgrundlage:** Die Verarbeitung erfolgt zur Vertragserfüllung (**Art. 6 Abs. 1 lit. b DSGVO**).
+### Rechtsgrundlage: Die Verarbeitung erfolgt zur Vertragserfüllung (**Art. 6 Abs. 1 lit. b DSGVO**).
 ---
 
 ### 5. Ihre Rechte als betroffene Person
