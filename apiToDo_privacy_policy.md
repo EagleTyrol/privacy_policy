@@ -29,7 +29,7 @@ Wir nutzen Dienste von Drittanbietern, um die Funktionalität und Sicherheit der
 
 * **Google Firebase:** Wir nutzen Firebase zur Benutzerauthentifizierung (Auth), Echtzeit-Synchronisation der Daten (Firestore), Analyse der App-Nutzung (Analytics), Absturzberichten (Crashlytics) und Push-Benachrichtigungen (Cloud Messaging).
 * **Google Cloud:** Zur sicheren Speicherung von App-Daten und Medien.
-* **RevenueCat:** Zur Verwaltung von In-App-Abonnements und Käufen. Die eigentliche Zahlungsabwicklung erfolgt über den Google Play Store bzw. Apple App Store; wir speichern keine Kreditkartendaten.
+* **RevenueCat & Google Play Billing:** Zur Verwaltung von In-App-Abonnements (z. B. der Jahreslizenz) nutzen wir RevenueCat. Bei Abschluss eines Abos erhält Google Play die Zahlungsinformationen. Wir und RevenueCat verarbeiten lediglich eine anonymisierte Transaktions-ID und den Kaufstatus, um den Abo-Zugriff für Ihr maximales Erlebnis freizuschalten. Es werden keine vollständigen Kreditkartendaten an uns übermittelt. Die Verarbeitung dient der Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO).
 
 **Datenübermittlung in die USA:** Die Datenverarbeitung erfolgt teilweise auf Servern in den USA. Die Europäische Kommission hat bestätigt, dass unter dem **EU-U.S. Data Privacy Framework** ein angemessenes Datenschutzniveau besteht.
 
