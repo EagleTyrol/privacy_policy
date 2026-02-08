@@ -2,7 +2,7 @@
 # Datenschutzerklärung
 
 **App:** ApiToDo  
-**Stand:** 08.02.2026  
+**Stand:** 05.02.2026  
 **Version:** 1.0.0
 
 Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2021). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer App.
